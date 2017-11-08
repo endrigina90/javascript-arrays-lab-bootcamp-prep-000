@@ -1,4 +1,4 @@
 const app = "I don't do much."
-function destructivelyAppendKitten(array,element) {
-return array.appendKitten(element)
+function destructivelyAppendKitten(array) {
+return array.appendKitten()
 }
